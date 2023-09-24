@@ -167,7 +167,7 @@
                     {
                         // Image is SElected
                         //A. REnamge the Image
-                        //Get the extension of selected image (jpg, png, gif, etc.) "vijay-thapa.jpg" vijay-thapa jpg
+                        //Get the extension of selected image (jpg, png, gif, etc.) 
                         $ext = end(explode('.', $image_name));
 
                         // Create New Name for Image
